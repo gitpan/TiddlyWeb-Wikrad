@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:                TiddlyWeb-Wikrad
-version:             0.4
+version:             0.5
 abstract:            efficient wiki browsing and editing
 license:             ~
 author:              
@@ -13,6 +13,7 @@ requires:
     JSON:                          0
     JSON::XS:                      0
     Readonly:                      0
+    URI:                           0
     YAML:                          0
 meta-spec:
     url:     http://module-build.sourceforge.net/META-spec-v1.3.html
